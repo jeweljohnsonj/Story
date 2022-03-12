@@ -191,8 +191,7 @@ Arjun stayed as he was part of the colony chamber crew. Commander Kakashi appear
 
 Without hesitation, Arjun moved along with his fellow officers and followed Commander Kakashi. They reached the colony chamber and the super pods were ready for flight. The other members of the ship were finished with the refuelling and docking of the superpods. They have all vacated the colony chamber and only the colony chamber crew and Commander Kakashi is left in. The vast airfield sized colony chamber was now empty as the crypto chambers are now filled onto the superpods. The superpod in simple terms was a small manoeuvrable ship that could carry a limited amount of goods. It is mostly used for quick and easy transport of materials, particularly in outer space.
 
-*Warning, sector 17 has been detached from the ship*
-*Danger, power failure*
+*Warning, sector 17 has been detached from the ship. Danger, power failure*
 
 The transponder said out loud its last message before going numb due to the power failure.
 
