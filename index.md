@@ -6,7 +6,7 @@
 
 >Another key aspect that made space travel possible was ironically World War 3. In 2022 _CE_ , the beginning of World War 3 started with the invasion of Ukraine by Russia. The war between the two countries then began to grow as the NATO alliance joined the war siding Ukraine and Russia receiving backup from their strong allies such as China, Egypt, Turkey and North Korea. Amid this chaos, Pakistan joined forces with China and Sri Lanka and invaded India. China notably initiated a three-front war, which was against, the NATO alliance, India and by invading Hong Kong and Taiwan. The numerous wars were merged into one and were called ‘The West vs East War’ of the 20th century. Without any surprises, this was deemed catastrophic for humankind. Over 1 billion people were killed in the total war and more than 60% of humans on Earth was displaced. Around 40% of habitable land was lost to the nuclear bombing. Order and peace ceased to exist. The war waged on for 8 years before finally ending in 2030 _CE_. It was not as if the belligerents came together to initiate peace but because much of the Earth was destroyed and human annihilation was imminent if the war went on. Call for peace rallied with the survivors of war and thus a new world order was born. This order united all countries in the world into one with governance divided into zonal areas. The North American and South American countries joined to form the Panamian zone, European countries along with Australia and New Zealand joined to become Europa zone, African countries joined to become Afri zone and all of the Asian countries and the Arab countries joined to become the Eurasian Zone. These four zones were governed by different sectors which were further overseen by ‘The Order’, a new governance class made up of people all over the world, overseeing peace and order of the whole world.
 
-![Zones of governance overseen by The Order](Pics/Zones.png  "Zones of governance overseen by The Order")
+| ![Zones of governance overseen by The Order](Pics/Zones.png  "Zones of governance overseen by The Order") |
 |:--:| 
 | *Zones of governance overseen by The Order* |
 
@@ -99,7 +99,7 @@ One of the officers near Arjun whispered, “Cataphract armour, so Commander Kak
 
 He was in the second vanguard line, readying his charged rifle and following Commander Kakashi’s instructions. Within a short span of time the whole defence line was completed. The quick completion somehow showed that Commander Kakashi was not doing this for the first time. The defence was then addressed by Commander Kakashi. Arjun being in the second vanguard could see the commander up-close. His face was visible as he was yet to wear his cataphract helmet. He had medium long hair, white as the snow but he was certainly not old looking. His face was cleanly shaven with a black mole under his lip. What stands out from all this was a long clean wound mark, a blade slice, vertical, on his left eye. His right eye was normal unharmed and human. But his left eye was more sinister. Staring at the left eye was tiring and invoked vertigo. Even though it was a glimpse, Arjun saw the left eye with detail. The iris was red in colour, red as blood with a single circular black hole in the middle where the pupil is, the iris was followed by three tome pattern shapes which sometimes changed position by revolving around the iris, like a wheel. The eye was the definition of sinister and power.
 
-![The sinister eye of Commander Kakashi](Pics/832260_naruto-shippuden-sharingan-kakashi-hatake_3000x2250_h.png  "The sinister eye of Commander Kakashi")
+| ![The sinister eye of Commander Kakashi](Pics/832260_naruto-shippuden-sharingan-kakashi-hatake_3000x2250_h.png  "The sinister eye of Commander Kakashi") |
 |:--:| 
 | *The sinister eye of Commander Kakashi* |
 
@@ -119,7 +119,7 @@ If Commander John was commandeering the ship and its pilots, Commander Kakashi w
 
 The transponder speaker was repeating the warning signals as the front gates were slowly opening. Smoke and fumes started escaping into the main hall restricting vision. It was unclear what was inside the power station. The flanks were ready with grenadier team on stand-by, sniper team was peering into the smoke-filled station, desperate to lock target on whatever there is, front line vanguard along with the brawler team was ready to block and destroy whatever that will advance forward and second-line vanguard was ready to provide cover fire to the front line. The man behind all these formations, the brain behind this quick operation, Commander Kakashi was in front of everyone, ready for battle. He drew his katana sword imbibed with plasma forged steel. The caressing sound of his blade as it was unsheathed from its guard declared that the battle could begin at a moment’s notice. As the smoke filled the main hall it made Commander Kakashi stand out even more. The red hot plasma from his katana and his sinister blood-red eye was a death stare. Finally, the door opened and there was a moment of silence.
 
-![Commander Kakashi's Katana](Pics/de5r9wv-dffe85e2-467c-4828-8206-b577f4af176c.png  "Commander Kakashi's Katana")
+| ![Commander Kakashi's Katana](Pics/de5r9wv-dffe85e2-467c-4828-8206-b577f4af176c.png  "Commander Kakashi's Katana") |
 |:--:| 
 | *Commander Kakashi's Katana* |
 
@@ -133,7 +133,7 @@ The whole defence froze in fear, their charisma broken. Arjun tightened his grip
 
 The flash of the flare illuminated the hall and at the same time it also illuminated how little hope there is to defeat the foreign threat, for there is a horde of ‘mechanoids’. Dismembered bodies of the power station engineers broke people’s courage and the culprit with blood-stained razor-sharp blades, a machine, a mechanoid, was peering at them. They too had their own flavour of formation, an offensive formation. The razor-sharp bladed mechanoid was in the front line and in the flanks. They looked small compared to the other mechanoids but seem very agile and nimble. This was followed by a similar-sized mechanoid, but instead of razor-sharp blades, their appendages were modified into lances, suggesting that it could fire projectiles. They are then followed by a group of the slender and tall mechanoid, one of the tallest among them, which had an elongated weapon like system fixed on its body. The rear then ended with colossal mechanoids, the size of a tank. They looked like centipedes in a mechanised fashion with numerous appendages slowly moving them, armed with what looked like cannons and other large weapon systems. And finally, the battle commenced.
 
-![The Mechanoids](Pics/mechanoid.jpg  "The Mechanoids")
+| ![The Mechanoids](Pics/mechanoid.jpg  "The Mechanoids") |
 |:--:| 
 | *The Mechanoids* |
 
@@ -200,13 +200,13 @@ The transponder said out loud its last message before going numb due to the powe
 
 Arjun entered into the docked superpod, there were three cryptocaskets loaded onto his superpod as his superpod was one of the last to be filled. The superpod cockpit was facing towards outer space opposite from the ship’s body. Arjun quickly buckled up and was ready for flight. He switched on the thrusters and the superpod has detached from the colony chamber frame of the ship and was now in space, taking flight. He could see a sea of superpods flying across the space and was moving to the engine mainframe. He wondered which superpod was boarded by Commander Kakashi. He positioned himself with the array of the superpods and was moving on to the destination. The detached sector 17 module were drifting in space. It was one of the significant parts of the ship and it was now drifting away from them. Arjun was looking at this huge space chunk and was recalling his battle with the mechanoids. Before his eyes, a strong spark of plasma engulfed the module and the entire ship chunk exploded with the brightest of light, a nuclear meltdown in summary. The shock wave reverberated across space, the superpods in close vicinity burned away and the other pods struggled to maintain control and crashed onto each other and the ship. Chaos ensued and destruction was unfolding. Arjun’s superpod, even though braced the shockwave, was pushed away from its intended path. Losing control he was revolving around space unable to maintain control was moving away from the ship. With little glimpse he saw that the ship itself was heavily damaged, numerous superpods were destroyed and the space was filled with its debris. The revolving motion caused him to slowly loosed his consciousness and he was fainting. Before succumbing to vertigo he saw the ship or whatever was left of it, had initiated the quantum leap. Then he passed out.
 
-![The compromised ship](Pics/jmzt5r1u63s71.jpg  "The compromised ship")
+| ![The compromised ship](Pics/jmzt5r1u63s71.jpg  "The compromised ship") |
 |:--:| 
 | *The compromised ship* |
 
 The superpod was uncontrollably swirling across space drifting away from the ship. It was travelling at dangerous speeds covering vast distances in a short time moving towards a planet. The planet’s gravitational force changed the trajectory of the superpod was now it was headed for a crash landing. With uncontrollable motion, the superpods entered the planet’s atmosphere. Upon detecting a strong gravitational pull, automatic landing procedures was initiated by the superpod. With the growing ball of smoke and fire, the superpod was crashing onto the crust. Landing procedures did what they could do before the super pods finally crash-landed. With flames ensuing, alarm signals were going off non stop from the superpod. Arjun was in his cockpit seat hanging on with the help of the seat belt in an unconscious manner. The chaos was finally over.
 
-![Arjun's crashlanded superpod](Pics/dan-silva-20190120-090114-0.jpg  "Arjun's crashlanded superpod")
+| ![Arjun's crashlanded superpod](Pics/dan-silva-20190120-090114-0.jpg  "Arjun's crashlanded superpod") |
 |:--:| 
 | *Arjun's crashlanded superpod* |
 
