@@ -8,7 +8,7 @@
 
 | ![Zones of governance overseen by The Order](Pics/Zones.png  "Zones of governance overseen by The Order") |
 |:--:| 
-| *Zones of governance overseen by The Order* |
+| **Zones of governance overseen by The Order** |
 
 >The Order came into full power after 20 years after the peace rally, in 2050 _CE_. Of the many changes that The Order had brought, one of the prominent achievements was advancements in science and technology. Huge networks of an interdisciplinary team of scientists worked in synchrony as they were not bound by borders or money. This accelerated research capabilities and drove up innovation. Since war had left around 50% of Earth inhabitable due to the nuclear aftermath, one of the first things The Order focused on was rehabilitation. The idea of colonising the planet Mars seemed the best option which became the main focus over the coming years to safeguard the survival of the human species. Then after nearly 50 years of scientific advancements, on March 14, 2300 _CE_ humans set their foot on Mars but only this time as true representatives of the human civilisation. The first steps of terraforming underwent and the colonisation of Mars became a reality. After 100 years Mars became a colony of Earth and the population on Mars was thriving with around 10 billion people. But sadly conflict was imbued inside human nature. Most of the terraforming missions since the beginning were undertaken by different corporations that were originally from Earth and they all saw The Order governing from the Earth, on them, as something archaic and barbaric. Mars was already thriving and full of potential and Earth was seen as a dying old planet with centuries-old ideas like democracy, laws, religion etc. The corporations saw that democracy was a hindrance to their ideas and goals, if true advancements that uplift the human species was to be brought the corporations argued that they must be liberated from The Order and was to be set free to explore. On August 15, 2372 _CE_ Mars declared independence from Earth. Denizens from Earth and The Order was left helpless as they had become technologically inferior to Mars and could not retaliate. But Mars corporations did not unify into a new governance body but each remained independent and focused on their ideas and goals. Starting from this period space travel and colonisation became a capitalist agenda run by mega-corporations. Several corporations set off for planetary searches across and beyond the solar system in search of new planets to colonise and also to extend their sphere of influence fearing that they might be eclipsed by the bigger mega crops. A direct conflict did not ensue between the corps. (corporations) but an indirect conflict in terms of competition for space and technology fuelled space travel. By this time, ahumans have far ventured into space, travelling billions of miles, colonising and terraforming thousands of planets and discovering several new life forms in the galaxy. But it should be noted that no intelligent life forms have been discovered so far.
 
@@ -101,7 +101,7 @@ He was in the second vanguard line, readying his charged rifle and following Com
 
 | ![The sinister eye of Commander Kakashi](Pics/832260_naruto-shippuden-sharingan-kakashi-hatake_3000x2250_h.png  "The sinister eye of Commander Kakashi") |
 |:--:| 
-| *The sinister eye of Commander Kakashi* |
+| **The sinister eye of Commander Kakashi** |
 
 In awe, recollecting the information of the sinister eye, the white hair and the cataphract armour, Arjun whispered to himself.
 
@@ -121,7 +121,7 @@ The transponder speaker was repeating the warning signals as the front gates wer
 
 | ![Commander Kakashi's Katana](Pics/de5r9wv-dffe85e2-467c-4828-8206-b577f4af176c.png  "Commander Kakashi's Katana") |
 |:--:| 
-| *Commander Kakashi's Katana* |
+| **Commander Kakashi's Katana** |
 
 Commander Kakashi peered into the silent power station with his left eye. The smoke did not affect his left eye as much as his right human eye. Everyone went silent. The moment was like the calm before the storm. And then the storm comes. A loud screeching metallic sound emanated from the power station. The dark background was illuminated by small and big red spheres which assumed the shape of eyes. Whatever it was, the eyes were spread across the station, filled. Without a speck of doubt, Commander Kakashi cried on top of his lungs.
 
@@ -135,7 +135,7 @@ The flash of the flare illuminated the hall and at the same time it also illumin
 
 | ![The Mechanoids](Pics/mechanoid.jpg  "The Mechanoids") |
 |:--:| 
-| *The Mechanoids* |
+| **The Mechanoids** |
 
 The rear end centipede mechanoids initiated the offence by firing their cannon. The cannons shot plasma balls and projectiles which was then followed by charge projectiles by the rest. The plasma ball melted the armours of the first line of vanguards. The marine armour even though was built to take punishment from high-temperature projectiles, the plasma ball was in a different class. If it wasn’t for the marine armour they would have been instantly vaporised away. This broke the front line formation and scattered the front defence. The EMP shots from the grenadier team seem to help much better than the charge rifle shot as they froze the mechanoids in place but ensuing chaos from the centipede cannon shook them away from their place. As the flank was disrupted, this allowed for a break. The razor-sharp mechanoids charged into the grenadier team as if they were the biggest threat to them. Razor sharp-bladed pierced into the grenadier armour and dismembered them.
 
@@ -202,13 +202,13 @@ Arjun entered into the docked superpod, there were three cryptocaskets loaded on
 
 | ![The compromised ship](Pics/jmzt5r1u63s71.jpg  "The compromised ship") |
 |:--:| 
-| *The compromised ship* |
+| **The compromised ship** |
 
 The superpod was uncontrollably swirling across space drifting away from the ship. It was travelling at dangerous speeds covering vast distances in a short time moving towards a planet. The planet’s gravitational force changed the trajectory of the superpod was now it was headed for a crash landing. With uncontrollable motion, the superpods entered the planet’s atmosphere. Upon detecting a strong gravitational pull, automatic landing procedures was initiated by the superpod. With the growing ball of smoke and fire, the superpod was crashing onto the crust. Landing procedures did what they could do before the super pods finally crash-landed. With flames ensuing, alarm signals were going off non stop from the superpod. Arjun was in his cockpit seat hanging on with the help of the seat belt in an unconscious manner. The chaos was finally over.
 
 | ![Arjun's crashlanded superpod](Pics/dan-silva-20190120-090114-0.jpg  "Arjun's crashlanded superpod") |
 |:--:| 
-| *Arjun's crashlanded superpod* |
+| **Arjun's crashlanded superpod** |
 
 Time passed and it was night and Arjun finally opened his eyes. He looked around, looked at himself. He had bruises all over but nothing lethal, the landing procedure saved him from death. Struggling he tried to free himself from his seat and attempted to walk out of the superpod. He was half-conscious but he could understand that this was a habitable planet, otherwise, he would be dead now. With mild pain, he breathed in and finally gathered all his strength to free himself from the seat.
 
